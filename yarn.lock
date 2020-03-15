@@ -166,17 +166,17 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/core@~7.2.0":
-  version "7.2.15"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.2.15.tgz#c00d4be0ebe95b70f7631154169509cc97934e9a"
-  integrity sha512-XsuYm0jEU/mOqwDOk2utThv8J9kESkAerfuCHClE9rB2TtHUOGCfekF7lJWqjjypu6/J9ygoPFo7hdAE058ZGg==
+"@angular/core@^7.2.15":
+  version "7.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.2.16.tgz#317f707bc75ca5a90ba470c34e49e6adb7026e85"
+  integrity sha512-z1RuBinuYeC4KLv8Z95YOgIQLd4nkoApdxkIZaWALwSkgeBuHJn4bCBn2cL0gJ/KO2x18TiTU5HuC+uyBt0AVQ==
   dependencies:
     tslib "^1.9.0"
 
-"@angular/forms@~7.2.0":
-  version "7.2.15"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-7.2.15.tgz#6b6e10b5f4687b6be3081abcc02a055b3ceeb6d8"
-  integrity sha512-p0kcIQLtBBC1qeTA6M3nOuXf/k91E80FKquVM9zEsO2kDjI0oZJVfFYL2UMov5samlJOPN+t6lRHEIUa7ApPsw==
+"@angular/forms@^7.2.15":
+  version "7.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-7.2.16.tgz#18769a2203edf87a1cc279dc2145da62b82f144e"
+  integrity sha512-50JTXco6w1HOi5o6RQ6PVSR0tD4Y2aRcCFBfLXvzDi78aZOSEdOYaSm78RDUNzGCbjwdMCIbX8eOdQgUUtsEFA==
   dependencies:
     tslib "^1.9.0"
 
@@ -617,9 +617,9 @@ acorn-dynamic-import@^4.0.0:
   integrity sha512-d3OEjQV4ROpoflsnUA8HozoIR504TFxNivYEUi6uwz0IYhBkTDXGuWlNdMtybRt3nqVx/L6XqMt0FxkXuWKZhw==
 
 acorn@^6.0.5:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.2.0.tgz#67f0da2fc339d6cfb5d6fb244fd449f33cd8bbe3"
-  integrity sha512-8oe72N3WPMjA+2zVG71Ia0nXZ8DpQH+QyyHO+p06jT8eg8FGG3FbcUIi8KziHlAfheJQZeoqbvq1mQSQHXKYLw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 adm-zip@^0.4.9:
   version "0.4.13"
