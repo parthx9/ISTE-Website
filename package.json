@@ -37,7 +37,7 @@
     "font-awesome": "^4.7.0",
     "fs": "^0.0.1-security",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.18.1",
     "mongoose": "^5.6.4",
     "multer": "^1.4.1",
