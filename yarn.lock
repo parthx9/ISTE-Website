@@ -166,17 +166,17 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/core@~7.2.0":
-  version "7.2.15"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.2.15.tgz#c00d4be0ebe95b70f7631154169509cc97934e9a"
-  integrity sha512-XsuYm0jEU/mOqwDOk2utThv8J9kESkAerfuCHClE9rB2TtHUOGCfekF7lJWqjjypu6/J9ygoPFo7hdAE058ZGg==
+"@angular/core@^7.2.15":
+  version "7.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-7.2.16.tgz#317f707bc75ca5a90ba470c34e49e6adb7026e85"
+  integrity sha512-z1RuBinuYeC4KLv8Z95YOgIQLd4nkoApdxkIZaWALwSkgeBuHJn4bCBn2cL0gJ/KO2x18TiTU5HuC+uyBt0AVQ==
   dependencies:
     tslib "^1.9.0"
 
-"@angular/forms@~7.2.0":
-  version "7.2.15"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-7.2.15.tgz#6b6e10b5f4687b6be3081abcc02a055b3ceeb6d8"
-  integrity sha512-p0kcIQLtBBC1qeTA6M3nOuXf/k91E80FKquVM9zEsO2kDjI0oZJVfFYL2UMov5samlJOPN+t6lRHEIUa7ApPsw==
+"@angular/forms@^7.2.15":
+  version "7.2.16"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-7.2.16.tgz#18769a2203edf87a1cc279dc2145da62b82f144e"
+  integrity sha512-50JTXco6w1HOi5o6RQ6PVSR0tD4Y2aRcCFBfLXvzDi78aZOSEdOYaSm78RDUNzGCbjwdMCIbX8eOdQgUUtsEFA==
   dependencies:
     tslib "^1.9.0"
 
@@ -7363,11 +7363,9 @@ ultron@~1.1.0:
   integrity sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og==
 
 undefsafe@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-2.0.2.tgz#225f6b9e0337663e0d8e7cfd686fc2836ccace76"
-  integrity sha1-Il9rngM3Zj4Njnz9aG/Cg2zKznY=
-  dependencies:
-    debug "^2.2.0"
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-2.0.5.tgz#38733b9327bdcd226db889fb723a6efd162e6e2c"
+  integrity sha512-WxONCrssBM8TSPRqN5EmsjVrsv4A8X12J4ArBiiayv3DyyG3ZlIg6yysuuSYdZsVz3TKcTg2fd//Ujd4CHV1iA==
 
 union-value@^1.0.0:
   version "1.0.1"
